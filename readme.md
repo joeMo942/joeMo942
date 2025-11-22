@@ -12,7 +12,6 @@ Hi, I'm Yousef Abdelwahab (joeMo942). Welcome to my GitHub! Here you'll find a v
 ![](https://nirzak-streak-stats.vercel.app/?user=joeMo942&theme=github_dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=joeMo942&theme=github_dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=joeMo942&theme=github_dark&no-frame=true&no-bg=true&margin-w=4)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
